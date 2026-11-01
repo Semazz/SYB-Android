@@ -2,7 +2,7 @@
 
 ![SYB](docs/images/brand.svg)
 
-**Быстрый и аккуратный клиент для Android на ядре SYBcore.**
+**Клиент для Android на ядре SYBcore.**
 
 [![Release](https://img.shields.io/github/v/release/Semazz/SYB-Android?style=flat-square&color=d9ff57&labelColor=151914&label=SYB)](https://github.com/Semazz/SYB-Android/releases/latest)
 [![Android 7+](https://img.shields.io/badge/Android-7.0%2B-d9ff57?style=flat-square&labelColor=151914)](https://developer.android.com/about/versions/nougat)
