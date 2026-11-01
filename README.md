@@ -2,24 +2,20 @@
 
 ![SYB](docs/images/brand.svg)
 
-**Быстрый и аккуратный VPN-клиент для Android на ядре SYBcore.**
+**Быстрый и аккуратный клиент для Android на ядре SYBcore.**
 
 [![Android 7+](https://img.shields.io/badge/Android-7.0%2B-d9ff57?style=flat-square&labelColor=151914)](https://developer.android.com/about/versions/nougat)
-[![SYB 1.0.4](https://img.shields.io/badge/SYB-1.0.4-d9ff57?style=flat-square&labelColor=151914)](CHANGELOG.md)
+[![Release](https://img.shields.io/github/v/release/Semazz/SYB-Android?style=flat-square&color=d9ff57&labelColor=151914&label=SYB)](https://github.com/Semazz/SYB-Android/releases/latest)
 [![Xray 26.10.29](https://img.shields.io/badge/Xray-26.10.29-aeb9a0?style=flat-square&labelColor=151914)](https://github.com/XTLS/Xray-core)
 [![GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-aeb9a0?style=flat-square&labelColor=151914)](LICENSE)
 
-### [Скачать последнюю версию →](https://github.com/Semazz/SYB-Android/releases)
-
 </div>
-
----
 
 ## Что умеет
 
 - **Подписки и серверы** - ссылка, QR-код, файл или буфер обмена. VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard, REALITY.
 - **SYBping** - точный пинг: несколько TCP-рукопожатий без учёта DNS, итог - медиана. Нажмите на цифры, чтобы перемерить.
-- **Маршруты** - правила по доменам, IP и приложениям; выбор приложений, которые идут через VPN.
+- **Маршруты** - правила по доменам, IP и приложениям; выбор приложений, которые идут через туннель.
 - **Защита** - блокировка рекламы и трекеров, контроль IPv6 и STUN, обход DPI.
 - **Оформление** - темы SYBcreate, SYBgroup, синяя и графитовая, светлый вид и AMOLED, восемь значков.
 - **Удобство** - виджеты, плитка в шторке, автозапуск, обновления прямо из приложения.
