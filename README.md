@@ -24,13 +24,15 @@
 
 ## Установка
 
-Скачайте APK из [последнего релиза](https://github.com/Semazz/SYB-Android/releases/latest):
+Скачайте файл для своего телефона из [последнего релиза](https://github.com/Semazz/SYB-Android/releases/latest):
 
-| Файл | Для чего |
+| Устройство | Файл |
 |---|---|
-| `…-arm64-v8a.apk` | Почти все современные телефоны |
-| `…-armeabi-v7a.apk` | Старые 32-битные устройства |
-| `…-x86_64.apk` | Эмуляторы |
+| Почти все современные телефоны | [**SYB-1.0.4-arm64-v8a.apk**](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.0.4-arm64-v8a.apk) |
+| Старые 32-битные телефоны | [SYB-1.0.4-armeabi-v7a.apk](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.0.4-armeabi-v7a.apk) |
+| Эмуляторы и устройства на Intel | [SYB-1.0.4-x86_64.apk](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.0.4-x86_64.apk) |
+
+Не знаете, какой нужен - берите первый. Дальше SYB обновляется сам, прямо в приложении.
 
 SYB не продаёт и не раздаёт серверы - нужна собственная подписка или конфигурация. Ключи и ссылки подписок хранятся зашифрованными (Android Keystore).
 
