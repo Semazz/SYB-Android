@@ -1,0 +1,10 @@
+{
+  "repository": "https://github.com/lipis/flag-icons",
+  "commit": "ac7e0eb3259eb62aa6100c435607e2fe03896a97",
+  "directory": "flags/4x3",
+  "files": 248,
+  "adaptations": {
+    "us.svg": "SVG markers expanded into 50 explicit vector stars for AndroidSVG",
+    "um.svg": "Same marker expansion as us.svg"
+  }
+}
