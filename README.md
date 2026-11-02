@@ -6,7 +6,7 @@
 
 [![Release](https://img.shields.io/github/v/release/Semazz/SYB-Android?style=flat-square&color=d9ff57&labelColor=151914&label=SYB)](https://github.com/Semazz/SYB-Android/releases/latest)
 [![Android 7+](https://img.shields.io/badge/Android-7.0%2B-d9ff57?style=flat-square&labelColor=151914)](https://developer.android.com/about/versions/nougat)
-[![Xray 26.10.29](https://img.shields.io/badge/Xray-26.10.29-aeb9a0?style=flat-square&labelColor=151914)](https://github.com/XTLS/Xray-core)
+[![Xray 26.10.31](https://img.shields.io/badge/Xray-26.10.31-aeb9a0?style=flat-square&labelColor=151914)](https://github.com/XTLS/Xray-core)
 [![GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-aeb9a0?style=flat-square&labelColor=151914)](LICENSE)
 
 </div>
@@ -28,9 +28,9 @@
 
 | Устройство | Файл |
 |---|---|
-| Почти все современные телефоны | [**SYB-1.0.4-arm64-v8a.apk**](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.0.4-arm64-v8a.apk) |
-| Старые 32-битные телефоны | [SYB-1.0.4-armeabi-v7a.apk](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.0.4-armeabi-v7a.apk) |
-| Эмуляторы и устройства на Intel | [SYB-1.0.4-x86_64.apk](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.0.4-x86_64.apk) |
+| Почти все современные телефоны | [**SYB-1.0.5-arm64-v8a.apk**](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.0.5-arm64-v8a.apk) |
+| Старые 32-битные телефоны | [SYB-1.0.5-armeabi-v7a.apk](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.0.5-armeabi-v7a.apk) |
+| Эмуляторы и устройства на Intel | [SYB-1.0.5-x86_64.apk](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.0.5-x86_64.apk) |
 
 Не знаете, какой нужен - берите первый. Дальше SYB обновляется сам, прямо в приложении.
 
