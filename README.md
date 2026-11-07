@@ -22,16 +22,8 @@
 | Android 7+ | [**SYB-1.0.6-arm64-v8a.apk**](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.0.6-arm64-v8a.apk) - почти все современные телефоны |
 | Android TV и старые телефоны | [SYB-1.0.6-armeabi-v7a.apk](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.0.6-armeabi-v7a.apk) |
 | Эмуляторы и устройства на Intel | [SYB-1.0.6-x86_64.apk](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.0.6-x86_64.apk) |
-| Google Play | скоро |
 
 Не знаете, какой файл нужен - берите первый. Дальше SYB обновляется сам, прямо в приложении. Подписку на телевизор проще всего передать с телефона: откройте на ТВ «Добавить с телефона» и наведите на QR-код камеру в SYB на телефоне.
-
-### Компьютеры
-
-| Платформа | Установщик | Портативная версия |
-|---|---|---|
-| Windows 10/11 x64 | скоро | скоро |
-| Linux x64 | скоро | скоро |
 
 > [!NOTE]
 > Все файлы подписаны ключом SYBcreate, пакет `com.sybbox` зарегистрирован в Google. Контрольные суммы - в `SHA256SUMS` каждого релиза.
