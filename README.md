@@ -18,7 +18,8 @@
 - **Маршруты** - свои списки «Напрямую», «Через прокси», «Блокировать», российские сайты напрямую, выбор приложений.
 - **SYBping** - точный пинг, нажмите на цифры у сервера, чтобы перемерить.
 - **Защита** - блокировка рекламы и трекеров, контроль IPv6 и STUN.
-- **Удобство** - виджеты, плитка в шторке, автозапуск, обновления прямо из приложения.
+- **Android TV** - управление пультом, подписка и настройки с телефона по QR-коду.
+- **Удобство** - виджеты, плитка в шторке, автозапуск, команды для автоматизации, обновления прямо из приложения.
 
 Языки: русский, English, Español, 简体中文.
 
@@ -28,9 +29,9 @@
 
 | Устройство | Файл |
 |---|---|
-| Почти все современные телефоны | [**SYB-1.0.5-arm64-v8a.apk**](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.0.5-arm64-v8a.apk) |
-| Старые 32-битные телефоны | [SYB-1.0.5-armeabi-v7a.apk](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.0.5-armeabi-v7a.apk) |
-| Эмуляторы и устройства на Intel | [SYB-1.0.5-x86_64.apk](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.0.5-x86_64.apk) |
+| Почти все современные телефоны | [**SYB-1.0.6-arm64-v8a.apk**](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.0.6-arm64-v8a.apk) |
+| Старые 32-битные телефоны и Android TV | [SYB-1.0.6-armeabi-v7a.apk](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.0.6-armeabi-v7a.apk) |
+| Эмуляторы и устройства на Intel | [SYB-1.0.6-x86_64.apk](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.0.6-x86_64.apk) |
 
 Не знаете, какой нужен - берите первый. Дальше SYB обновляется сам, прямо в приложении.
 
