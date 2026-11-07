@@ -15,8 +15,6 @@
 
 ## Скачать
 
-### Телефоны, планшеты и ТВ
-
 | Платформа | Где взять |
 |---|---|
 | Android 7+ | [**SYB-1.0.6-arm64-v8a.apk**](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.0.6-arm64-v8a.apk) - почти все современные телефоны |
