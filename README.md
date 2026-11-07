@@ -17,7 +17,7 @@
 
 | Платформа | Где взять |
 |---|---|
-| Android 7+ | [**SYB-1.0.6-arm64-v8a.apk**](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.0.6-arm64-v8a.apk) - почти все современные телефоны |
+| Android 7+ | [**SYB-1.0.6-arm64-v8a.apk**](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.0.6-arm64-v8a.apk) |
 | Android TV и старые телефоны | [SYB-1.0.6-armeabi-v7a.apk](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.0.6-armeabi-v7a.apk) |
 | Эмуляторы и устройства на Intel | [SYB-1.0.6-x86_64.apk](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.0.6-x86_64.apk) |
 
