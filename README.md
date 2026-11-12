@@ -1,6 +1,6 @@
 <div align="center">
 
-![SYB](docs/images/brand.svg)
+![SYB: свои серверы, одно нажатие](docs/images/banner.png)
 
 **Быстрый клиент для ваших серверов на ядре SYBcore ([Xray-core](https://github.com/XTLS/Xray-core)).**
 
