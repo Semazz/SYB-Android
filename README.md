@@ -8,7 +8,7 @@
 [![Downloads](https://img.shields.io/github/downloads/Semazz/SYB-Android/total?style=flat-square&color=aeb9a0&labelColor=151914&label=downloads)](https://github.com/Semazz/SYB-Android/releases)
 [![Android](https://img.shields.io/badge/Android-7.0%2B-d9ff57?style=flat-square&logo=android&logoColor=white&labelColor=151914)](#скачать)
 [![Android TV](https://img.shields.io/badge/Android_TV-ready-d9ff57?style=flat-square&logo=androidtv&logoColor=white&labelColor=151914)](#скачать)
-[![SYBcore](https://img.shields.io/badge/SYBcore-1.0.1-aeb9a0?style=flat-square&labelColor=151914)](https://github.com/XTLS/Xray-core)
+[![SYBcore](https://img.shields.io/badge/SYBcore-1.0.2-aeb9a0?style=flat-square&labelColor=151914)](https://github.com/XTLS/Xray-core)
 [![Issues](https://img.shields.io/badge/report-issues-aeb9a0?style=flat-square&logo=github&labelColor=151914)](https://github.com/Semazz/SYB-Android/issues)
 
 </div>
@@ -17,9 +17,9 @@
 
 | Платформа | Где взять |
 |---|---|
-| Android 7+ | [**SYB-1.1.0-arm64-v8a.apk**](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.1.0-arm64-v8a.apk) |
-| Android TV и старые телефоны | [SYB-1.1.0-armeabi-v7a.apk](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.1.0-armeabi-v7a.apk) |
-| Эмуляторы и устройства на Intel | [SYB-1.1.0-x86_64.apk](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.1.0-x86_64.apk) |
+| Android 7+ | [**SYB-1.1.1-arm64-v8a.apk**](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.1.1-arm64-v8a.apk) |
+| Android TV и старые телефоны | [SYB-1.1.1-armeabi-v7a.apk](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.1.1-armeabi-v7a.apk) |
+| Эмуляторы и устройства на Intel | [SYB-1.1.1-x86_64.apk](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.1.1-x86_64.apk) |
 
 Не знаете, какой файл нужен - берите первый. Дальше SYB обновляется сам, прямо в приложении. Подписку на телевизор проще всего передать с телефона: откройте на ТВ «Добавить с телефона» и наведите на QR-код камеру в SYB на телефоне.
 
