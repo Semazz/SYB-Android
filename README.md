@@ -17,9 +17,9 @@
 
 | Платформа | Где взять |
 |---|---|
-| Android 7+ | [**SYB-1.1.1-arm64-v8a.apk**](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.1.1-arm64-v8a.apk) |
-| Android TV и старые телефоны | [SYB-1.1.1-armeabi-v7a.apk](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.1.1-armeabi-v7a.apk) |
-| Эмуляторы и устройства на Intel | [SYB-1.1.1-x86_64.apk](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.1.1-x86_64.apk) |
+| Android 7+ | [**SYB-1.1.2-arm64-v8a.apk**](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.1.2-arm64-v8a.apk) |
+| Android TV и старые телефоны | [SYB-1.1.2-armeabi-v7a.apk](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.1.2-armeabi-v7a.apk) |
+| Эмуляторы и устройства на Intel | [SYB-1.1.2-x86_64.apk](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.1.2-x86_64.apk) |
 
 Не знаете, какой файл нужен - берите первый. Дальше SYB обновляется сам, прямо в приложении. Подписку на телевизор проще всего передать с телефона: откройте на ТВ «Добавить с телефона» и наведите на QR-код камеру в SYB на телефоне.
 
