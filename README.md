@@ -4,7 +4,7 @@
 
 **Быстрый клиент для ваших серверов на ядре SYBcore ([Xray-core](https://github.com/XTLS/Xray-core)).**
 
-[![Release](https://img.shields.io/github/v/release/Semazz/SYB-Android?style=flat-square&color=d9ff57&labelColor=151914&label=SYB)](https://github.com/Semazz/SYB-Android/releases/latest)
+[![Release](https://img.shields.io/github/v/release/Semazz/SYB-Android?style=flat-square&color=d9ff57&labelColor=151914&label=SYB&cacheSeconds=300)](https://github.com/Semazz/SYB-Android/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/Semazz/SYB-Android/total?style=flat-square&color=aeb9a0&labelColor=151914&label=downloads)](https://github.com/Semazz/SYB-Android/releases)
 [![Android](https://img.shields.io/badge/Android-7.0%2B-d9ff57?style=flat-square&logo=android&logoColor=white&labelColor=151914)](#скачать)
 [![Android TV](https://img.shields.io/badge/Android_TV-ready-d9ff57?style=flat-square&logo=androidtv&logoColor=white&labelColor=151914)](#скачать)
@@ -17,9 +17,9 @@
 
 | Платформа | Где взять |
 |---|---|
-| Android 7+ | [**SYB-1.1.2-arm64-v8a.apk**](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.1.2-arm64-v8a.apk) |
-| Android TV и старые телефоны | [SYB-1.1.2-armeabi-v7a.apk](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.1.2-armeabi-v7a.apk) |
-| Эмуляторы и устройства на Intel | [SYB-1.1.2-x86_64.apk](https://github.com/Semazz/SYB-Android/releases/latest/download/SYB-1.1.2-x86_64.apk) |
+| Android 7+ | [**SYB-1.1.3-arm64-v8a.apk**](https://github.com/Semazz/SYB-Android/releases/download/v1.1.3/SYB-1.1.3-arm64-v8a.apk) |
+| Android TV и старые телефоны | [SYB-1.1.3-armeabi-v7a.apk](https://github.com/Semazz/SYB-Android/releases/download/v1.1.3/SYB-1.1.3-armeabi-v7a.apk) |
+| Эмуляторы и устройства на Intel | [SYB-1.1.3-x86_64.apk](https://github.com/Semazz/SYB-Android/releases/download/v1.1.3/SYB-1.1.3-x86_64.apk) |
 
 Не знаете, какой файл нужен - берите первый. Дальше SYB обновляется сам, прямо в приложении. Подписку на телевизор проще всего передать с телефона: откройте на ТВ «Добавить с телефона» и наведите на QR-код камеру в SYB на телефоне.
 
